@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 4.1)
-project(untitled C)
+project(entropymaxxing C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(untitled main.c
+add_executable(entropymaxxing main.c
         addons.c
         SORTINGS/MiracleSort/MiracleSort.c
         SORTINGS/MiracleSort/MiracleSort.h
