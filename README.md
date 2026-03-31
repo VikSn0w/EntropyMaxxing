@@ -3,7 +3,7 @@
 
 # 🌀 EntropyMaxxing
 
-Welcome to **EntropyMaxxing**, a C-based collection of the most cursed, inefficient, and bizarre "sorting" algorithms known to computer science.
+Welcome to **EntropyMaxxing**, a C-based (C11 standard compliant) collection of the most cursed, inefficient, and bizarre "sorting" algorithms known to computer science.
 
 If you are looking for `O(n log n)` performance, you are in the wrong place. We optimize for high entropy, multithreaded chaos, and hoping the universe aligns our arrays for us.
 
