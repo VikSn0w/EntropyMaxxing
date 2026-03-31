@@ -1,0 +1,4 @@
+#ifndef UNTITLED_PICKONE_H
+#define UNTITLED_PICKONE_H
+void pick_one(int arr[], int *size);
+#endif //UNTITLED_PICKONE_H
