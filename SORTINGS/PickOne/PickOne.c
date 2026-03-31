@@ -3,6 +3,7 @@
 //
 
 #include "PickOne.h"
+#include <stdlib.h>
 void pick_one(int arr[], int *size) {
     arr[0] = arr[rand() % *size];
     *size = 1;
